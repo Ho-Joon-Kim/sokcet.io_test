@@ -545,6 +545,11 @@ negotiator@0.6.2:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
   integrity sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw==
 
+nibba@^1.1.9:
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/nibba/-/nibba-1.1.9.tgz#db2d7427e0d3c3cd4a48f2b4538896194fb729d5"
+  integrity sha512-hGfjliDlOwJqXxeSoNFFF0nuDteSBHzDq3Xrm3R3SYZNYXo3tuy/qD0i9bfCMExRhNc8oIJ75QfeHaw8LUtopw==
+
 object-assign@^4:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
